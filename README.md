@@ -67,7 +67,6 @@ Real adversarial simulation, not automated reports.
 | Project | Stack | Status |
 |---------|-------|--------|
 | 🖥️ **[SecureDesk](https://github.com/bluevectorlabs/SecureDesk)** — Privacy-first remote desktop. Noise XK end-to-end, zero-logging relay, 9-digit ID, no accounts. | Tauri · Rust · React | Open source · pilot |
-| 👻 **[Zerion](https://zerion.chat)** — Anonymous, encrypted, post-quantum-ready messenger + vault. Tor-only, no servers, Triple Ratchet (X25519 + ML-KEM-768), anti-forensics. | Native Android · iOS · Rust | Live on F-Droid & Play Store · iOS on TestFlight |
 | 🚗 **Radarcı** — Community-powered speed-camera, traffic, and weather alerts. 27 countries, ~44.5k radars, full RTL/Arabic support. | React Native · Supabase · OSM | TestFlight beta · public launch June 2026 |
 
 ---
